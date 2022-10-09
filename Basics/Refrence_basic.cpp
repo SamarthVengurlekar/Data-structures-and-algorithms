@@ -1,6 +1,10 @@
+
+
 // Nothing before variable name is data variable 
 // ' * ' before variable name is pointer 
 // ' & ' before variable name is reference
+
+
 #include<iostream>
 using namespace std;
 int main()  
@@ -9,6 +13,6 @@ int main()
     int &r=a;
     
     cout<<a<<endl;
-   // cout<<r<endl; //to check
+   // cout<<r<endl;          //to check later
  return 0;
 }
