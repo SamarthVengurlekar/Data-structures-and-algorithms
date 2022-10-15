@@ -1,4 +1,20 @@
+<<<<<<< Updated upstream
 Basics/Functions_basic.exe
 Basics/Structure_basic.exe
 Recursion/Tail_Recursion.exe
 Recursion/Head_Recursion.exe
+=======
+Recursion/Head_Recursion.exe
+Recursion/Tail_Recursion.exe
+Basics/Array_basic.exe
+Basics/Functions_basic.exe
+Basics/Structure_basic.exe
+Basics/Array_as_parameter.exe
+Basics/Parameter_Passing.exe
+Basics/Pointer_basic.exe
+Basics/Pointer_to_strut.exe
+Basics/Refrence_basic.exe
+Basics/Struct_and_function.exe
+Basics/Struct_as_parameter.exe
+Recursion/Static_Global_Variable.exe
+>>>>>>> Stashed changes

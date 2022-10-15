@@ -19,9 +19,5 @@ int main()
  return 0;
 }
 
-
-
-
-
 //arrays can be passed only using address
 //function can modify array as call by adress
